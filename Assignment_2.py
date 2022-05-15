@@ -45,7 +45,7 @@ department_name = "Civil"
 cgpa = 9.9
 
 # string formating using format function.
-print("Hey,{} Here! \nMY SID is {} \nI am form {} department and my CGPA is {} \n".format(name,sid,deparment_name,cgpa))
+print("Hey,{} Here! \nMY SID is {} \nI am form {} department and my CGPA is {} \n".format(name,sid,department_name,cgpa))
 
 # Question 3
 print("\t Question 3")
