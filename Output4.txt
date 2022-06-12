@@ -1,0 +1,25 @@
+Enter Marks :99
+ Grade A      
+Enter a year: 2022
+Given year is not a Leap Year
+Question 1:6X7=42
+Correct!        
+Question 2:10X7=70
+Correct!
+Question 3:10X9=90
+Correct!
+Question 4:5X8=40
+Correct!
+Question 5:3X6=18
+Correct!
+Question 6:4X6=30
+Wrong.The correct answer is 24
+Question 7:4X6=24
+Correct!
+Question 8:6X1=6
+Correct!
+Question 9:7X3=21
+Correct!
+Question 10:10X4=50
+Wrong.The correct answer is 40
+177 candies are in the bowl!
