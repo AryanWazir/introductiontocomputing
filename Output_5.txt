@@ -1,0 +1,66 @@
+
+
+Enter the the string :Pyhton
+nothyP
+Enter the minimum value :99
+Enter the maximum value: 135
+Enter the number for divisibility check :5
+100
+105
+110
+115
+120
+125
+130
+135
+Enter the length of side:3
+Enter the length of side:4
+Enter the length of side:5
+Area is: 6.0
+Enter the no. of rows :5
+*
+**
+***
+**
+*
+Enter the number of rows5
+
+A
+BC
+DEF
+GHIJ
+KLMNO
+Enter the Lowest Range Value : 99
+Enter the Upper Range Value : 135
+The Prime Numbers in this range are : 
+101
+103
+107
+109
+113
+127
+131
+The numbers divisible by 11 and are multiple of 7 are : [77, 154, 231, 308, 385, 462]
+Enter the number: -2
+Enter the number: 4
+Enter the number: 6
+Enter the number: 5
+Enter the number: 3
+Enter the number: 3
+Enter the number: 8
+Enter the number: 9
+Enter the number: 5
+Enter the number: -7
+Positive numbers are:  [4, 6, 5, 3, 3, 8, 9, 5]
+Negative numbers are:  [-2, -7]
+Even numbers are:  [-2, 4, 6, 8]
+Odd numbers are:  [5, 3, 3, 9, 5, -7]
+Number of times each number occurs in the List {-2: 1, 4: 1, 6: 1, 5: 2, 3: 2, 8: 1, 9: 1, -7: 1}
+Number of words: 6
+Enter the word: python
+Enter the word: language
+Enter the word: loops
+Enter the word: india
+Enter the word: loops
+Enter the word: python
+Number of occurences:  {'python': 2, 'language': 1, 'loops': 2, 'india': 1}
