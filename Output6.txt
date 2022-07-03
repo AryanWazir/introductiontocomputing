@@ -1,0 +1,35 @@
+Write a number : 6
+True
+malayalam
+YES, its palindrome
+[1]
+[1, 1]
+[1, 2, 1]
+[1, 3, 3, 1]
+[1, 4, 6, 4, 1]
+[1, 5, 10, 10, 5, 1]
+Sentence: the quick brown fox jumps over the lazy dog
+True
+green-red-yellow-black-white
+black-green-red-white-yellow
+
+Student ID: PEC12
+Student Name: $ Ian Bell
+
+Student ID: PEC12
+Student Name: $ Ian Bell
+
+Student Name: $ Ian Bell
+Student Class: $ V
+True
+False
+True
+False
+
+Check whether the said classes are subclasses of the built-in object class or not
+True
+True
+-10 2 8
+-7 -3 10
+enter : {{{
+{{{ - is Unbalanced
